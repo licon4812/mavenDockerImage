@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "hello"
+mvn --version
+mvn install
